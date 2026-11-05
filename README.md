@@ -34,7 +34,7 @@ A learning portfolio of 16 small, readable cybersecurity tools. Each lives in it
 ## Quick start
 
 ```bash
-git clone <https://github.com/JittukaSujith/Cyber-Toolkit> cyber-toolkit && cd cyber-toolkit
+git clone https://github.com/JittukaSujith/cyber-toolkit.git cyber-toolkit && cd cyber-toolkit
 python -m venv .venv && source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
