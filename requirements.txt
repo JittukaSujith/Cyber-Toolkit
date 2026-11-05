@@ -1,0 +1,5 @@
+requests>=2.31
+cryptography>=42.0
+dnspython>=2.4
+# tkinter (used by the GUI tools) ships with Python on Windows/macOS.
+# On Debian/Ubuntu:  sudo apt install python3-tk
