@@ -85,3 +85,7 @@ The tests are offline and cover the parsing, scoring and crypto logic (including
 ## Disclaimer of warranty
 
 Provided "as is" for educational purposes under the MIT License. These tools are simplified teaching aids; do not rely on them as your only security control.
+
+## Author
+
+Built by Sujith Kumar ([@JittukaSujith](https://github.com/JittukaSujith)) as a hands-on learning and portfolio project for cybersecurity roles.
