@@ -1,4 +1,6 @@
 # Cyber Toolkit: hands-on security tools in Python
+markdown
+![tests](https://github.com/JittukaSujith/cyber-toolkit/actions/workflows/tests.yml/badge.svg)
 
 A learning portfolio of 16 small, readable cybersecurity tools. Each lives in its own folder with a short script, a README and comments that explain **the security idea** behind the code. Some are GUI, most are CLI, and they cover defensive, recon, crypto and educational offensive-style techniques.
 
@@ -44,8 +46,7 @@ python password_strength_checker/password_checker.py   # opens the GUI
 
 Requirements: Python 3.10+. GUI tools need Tkinter (bundled with Python on Windows/macOS; on Debian/Ubuntu run `sudo apt install python3-tk`). Third-party libraries are small and standard: `requests`, `cryptography`, `dnspython`.
 
-markdown
-![tests](https://github.com/JittukaSujith/cyber-toolkit/actions/workflows/tests.yml/badge.svg)
+
 
 ## Suggested learning path
 
