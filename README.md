@@ -91,4 +91,4 @@ Provided "as is" for educational purposes under the MIT License. These tools are
 
 ## Author
 
-Built by Sujith Kumar ([@JittukaSujith](https://github.com/JittukaSujith)) as a hands-on learning and portfolio project for cybersecurity roles.
+Built by Sujith Kumar Jittuka ([@JittukaSujith](https://github.com/JittukaSujith)) as a hands-on learning and portfolio project for cybersecurity roles.
