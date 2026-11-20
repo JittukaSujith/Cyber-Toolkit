@@ -42,7 +42,10 @@ python jwt_inspector/jwt_inspector.py --demo --secret secret
 python password_strength_checker/password_checker.py   # opens the GUI
 ```
 
-Requirements: Python 3.9+. GUI tools need Tkinter (bundled with Python on Windows/macOS; on Debian/Ubuntu run `sudo apt install python3-tk`). Third-party libraries are small and standard: `requests`, `cryptography`, `dnspython`.
+Requirements: Python 3.10+. GUI tools need Tkinter (bundled with Python on Windows/macOS; on Debian/Ubuntu run `sudo apt install python3-tk`). Third-party libraries are small and standard: `requests`, `cryptography`, `dnspython`.
+
+markdown
+![tests](https://github.com/JittukaSujith/cyber-toolkit/actions/workflows/tests.yml/badge.svg)
 
 ## Suggested learning path
 
@@ -79,7 +82,6 @@ The tests are offline and cover the parsing, scoring and crypto logic (including
 
 - Add a `--json` output option to every CLI and a combined HTML report.
 - Package it with `pyproject.toml` and a `cyber-toolkit <tool>` entry point.
-- Add GitHub Actions to run the tests on Linux, macOS and Windows.
 - New tools: subdomain enumeration (passive), log analyzer for failed SSH logins, file-integrity monitor, steganography demo, simple honeypot.
 
 ## Disclaimer of warranty
